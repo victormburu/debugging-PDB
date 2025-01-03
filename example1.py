@@ -1,3 +1,10 @@
-filename = __file__
-import pdb; pdb.set_trace()
-print(f'print = {filename}')
+import pdb
+
+def add(a, b)
+sum = a + b
+pdb.set_trace()
+return sum
+
+x = 5
+y = 7
+print(add(x, y))
